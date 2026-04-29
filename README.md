@@ -151,6 +151,7 @@ debugImplementation(libs.androidx.ui.test.manifest)
 ## 👨‍💻 Autor
 
 Alex Jiménez Quiñonero
+<br>
 Ejercicio académico individual — **M07 - Android Studio** (La Salle).
 
 ## 📄 Licencia
