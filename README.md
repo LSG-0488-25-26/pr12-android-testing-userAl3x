@@ -62,6 +62,10 @@ app/src/androidTest/…
 - **Instrumental UI Testing** sobre elementos de `MainView` con `@get:Rule composeTestRule = createAndroidComposeRule<MainActivity>()` y `onNodeWithTag(...)` (8 tests)
 - Dependencias de test declaradas en **`app/build.gradle.kts`**
 
+## 🎥 Demostración del testing en vídeo
+
+- [Demostración de los tests en YouTube](https://youtu.be/5u2amIsBQWk)
+
 ## 🖥️ Cómo ejecutar los tests
 
 ### Qué se declaró en el proyecto para que los tests funcionen correctamente
